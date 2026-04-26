@@ -1,2 +1,2 @@
-This is sid txt. in newbranch.
+This is sid txt. in newbranch2.
 I love OST.
