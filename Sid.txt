@@ -1,2 +1,2 @@
-I study open source technology.
+This is sid txt. in newbranch.
 I love OST.
