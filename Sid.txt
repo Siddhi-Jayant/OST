@@ -1,2 +1,7 @@
 
+
+
+This is sid txt. in newbranch2.
+update 2 branch.
+
 I love OST.
